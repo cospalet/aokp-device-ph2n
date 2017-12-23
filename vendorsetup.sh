@@ -1,0 +1,2 @@
+add_lunch_combo aokp_ph2n-eng
+add_lunch_combo aokp_ph2n-userdebug
